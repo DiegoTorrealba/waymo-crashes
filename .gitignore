@@ -12,4 +12,6 @@ wheels/
 # Project-specific
 data/**
 data/
-
+.ipynb_checkpoints/
+.idynb_checkpoints/**
+*/.ipynb_checkpoints/
